@@ -1370,12 +1370,12 @@ footer .link-icons {
   }
 
   .hero-img {
-    max-height: 60vw;
+    max-height: 55vw;
   }
 
   .hero-txt {
     max-height: 28vw;
-    margin-top: -70vw;
+    margin-top: -65vw;
   }
 
   .hero-txt h1 {
@@ -1383,7 +1383,8 @@ footer .link-icons {
   }
 
   .arrow-down {
-    height: 5em;
+    height: 7vw;
+    width: 2vw;
   }
 
   #contact {
